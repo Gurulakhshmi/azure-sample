@@ -1,16 +1,8 @@
 {
   "name": "azure-sample",
   "version": "1.0.0",
-  "description": "Sample Node.js project for Azure pipeline/GitHub Actions testing",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "echo \"No build step defined\"",
-    "test": "echo \"No tests defined\" && exit 0"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {}
+    "start": "node index.js"
+  }
 }
